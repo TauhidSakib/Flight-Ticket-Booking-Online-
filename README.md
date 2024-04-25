@@ -1,6 +1,6 @@
-# Airlines Management System
+# Flight Ticket Booking Online 
 
-Flight Management System using MERN Stack. It consists of an Admin Panel having specified permissions to access the database along with a Customer Panel having specified CRUD operations control and book as many tickets as they want. 
+It consists of an Admin Panel having specified permissions to access the database along with a Customer Panel having specified CRUD operations control and book as many tickets as they want. 
 
 ## Table of Contents
 
